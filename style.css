@@ -1,0 +1,27 @@
+body {
+	color: limegreen;
+	background-color:  purple;
+	align-content: right;
+}
+
+img {
+	border: orange dotted 15px;
+	padding: 5px;
+
+}
+
+h1 {
+	font-size: 50px;
+	font-family: "Arial";
+	font-weight: bold;
+	color: yellow;
+
+
+}
+strong{
+	opacity: 0.75;
+}
+
+table {
+	outline: orange dotted 4px;
+}
